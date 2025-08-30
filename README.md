@@ -1,5 +1,5 @@
 Hi there, I'm Jeevan Kurian 👋
-<a href="https://www.linkedin.com/in/jeevan-kurian-a337651a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/jeevan-kurian-71b806224/" alt="LinkedIn"/></a>
 
 🚀 About Me
 I am a results-driven Software Engineer specializing in full-stack development and cloud-native applications. I have a proven ability to deliver scalable, high-performance software solutions by leveraging my expertise in Java, Spring Boot, React, and AWS. Currently, I'm deepening my expertise as a Master's student in Software Engineering at 
